@@ -94,33 +94,3 @@ for i, fpath in enumerate(files_path):
     with txtf:
         txtf.write(str(text))
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
