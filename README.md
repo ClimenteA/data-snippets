@@ -1,6 +1,6 @@
 # Data snippets
 #### A collection of useful snippets to use when working with pandas
-
+<br>
 Select only columns starting from index 3 to the end.
 
     df_ata = df[df.columns[3:]]
