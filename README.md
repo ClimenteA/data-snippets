@@ -1,5 +1,5 @@
 # Data snippets
- A collection of useful snippets to use when working with pandas
+#### A collection of useful snippets to use when working with pandas
 
 Select only columns starting from index 3 to the end.
 
